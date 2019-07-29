@@ -6,6 +6,9 @@ Sugar
 Milk
 Chicken
 
+Beans
+Pizza
+
 
 
 
